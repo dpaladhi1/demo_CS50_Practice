@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 int main(void) {
+    //variable Declaration Block
      char input[20] ;
      int n=0;
      printf("Enter your name:");
