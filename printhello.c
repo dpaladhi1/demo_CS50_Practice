@@ -2,4 +2,6 @@
 //commect
 int main(void) {
     //printf("Hellow");
+    printf("Hellow");
+    printf("Debabrata");
 }
